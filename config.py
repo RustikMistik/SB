@@ -1,0 +1,5 @@
+FREE_CELL = 'O'
+TERRYTORY_OF_SHIP = '-'
+MARK_OF_SHIP = '■'
+HIT_IN_SHIP = '*'
+HIT_MISS = 'T'
